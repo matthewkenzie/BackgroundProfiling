@@ -1,0 +1,14 @@
+# cat dir outfile expSig meanB meanL meanH errB errL errH pullB pullL pullH
+#0 bias2011/cat0_mu1 bias2011/cat0_mu1/BiasStudyOut_cat0Hists.root 1. 50 -4 6 50 0.5 2.5 50 -5 5 
+#1 bias2011/cat1 bias2011/cat1/BiasStudyOut_cat1Hists.root 0. 50 -4 4 50 0.5 1.5 50 -5 5 
+#2 bias2011/cat2 bias2011/cat2/BiasStudyOut_cat2Hists.root 0. 50 -4 4 50 0.5 1.5 50 -5 5 
+#3 bias2011/cat3 bias2011/cat3/BiasStudyOut_cat3Hists.root 0. 50 -4 4 50 0.5 1.5 50 -5 5 
+#4 bias2011/cat4_mu1 bias2011/cat4_mu1/BiasStudyOut_cat4Hists.root 1. 50 -4 6 50 0.5 2.5 50 -5 5
+
+1 bias2011/cat1_mu-1.5 bias2011/cat1_mu-1.5/BiasStudyOut_cat1Hists.root -1.5 50 -5.5 2.5 50 0.5 1.5 50 -5 5 
+1 bias2011/cat1_mu-1 bias2011/cat1_mu-1/BiasStudyOut_cat1Hists.root -1. 50 -5. 3. 50 0.5 1.5 50 -5 5 
+1 bias2011/cat1_mu-0.5 bias2011/cat1_mu-0.5/BiasStudyOut_cat1Hists.root -1.5 50 -4.5 3.5 50 0.5 1.5 50 -5 5 
+1 bias2011/cat1_mu0 bias2011/cat1_mu0/BiasStudyOut_cat1Hists.root 0. 50 -4. 4. 50 0.5 1.5 50 -5 5 
+1 bias2011/cat1_mu0.5 bias2011/cat1_mu0.5/BiasStudyOut_cat1Hists.root 0.5 50 -3.5 4.5 50 0.5 1.5 50 -5 5 
+1 bias2011/cat1_mu1 bias2011/cat1_mu1/BiasStudyOut_cat1Hists.root 1. 50 -3. 5. 50 0.5 1.5 50 -5 5 
+1 bias2011/cat1_mu1.5 bias2011/cat1_mu1.5/BiasStudyOut_cat1Hists.root 1.5 50 -2.5 5.5 50 0.5 1.5 50 -5 5 

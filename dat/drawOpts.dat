@@ -1,0 +1,14 @@
+# cat outdir infile expSig biasY pullY
+#0 bias2011/cat0_mu1/plots/bias bias2011/cat0_mu1/BiasStudyOut_cat0Hists.root 1. -0.3,0.3 -0.5,0.5
+#1 bias2011/cat1/plots/bias bias2011/cat1/BiasStudyOut_cat1Hists.root 0. -0.3,0.3 -0.25,0.25
+#2 bias2011/cat2/plots/bias bias2011/cat2/BiasStudyOut_cat2Hists.root 0. -0.3,0.3 -0.25,0.25
+#3 bias2011/cat3/plots/bias bias2011/cat3/BiasStudyOut_cat3Hists.root 0. -0.3,0.3 -0.25,0.25
+#4 bias2011/cat4_mu1/plots/bias bias2011/cat4_mu1/BiasStudyOut_cat4Hists.root 1. -0.3,0.3 -0.5,0.5
+
+1 bias2011/cat1_mu-1.5/plots/bias bias2011/cat1_mu-1.5/BiasStudyOut_cat1Hists.root -1.5 -0.3,0.3 -0.25,0.25
+1 bias2011/cat1_mu-1/plots/bias bias2011/cat1_mu-1/BiasStudyOut_cat1Hists.root -1. -0.3,0.3 -0.25,0.25
+1 bias2011/cat1_mu-0.5/plots/bias bias2011/cat1_mu-0.5/BiasStudyOut_cat1Hists.root -0.5 -0.3,0.3 -0.25,0.25
+1 bias2011/cat1_mu0/plots/bias bias2011/cat1_mu0/BiasStudyOut_cat1Hists.root 0. -0.3,0.3 -0.25,0.25
+1 bias2011/cat1_mu0.5/plots/bias bias2011/cat1_mu0.5/BiasStudyOut_cat1Hists.root 0.5 -0.3,0.3 -0.25,0.25
+1 bias2011/cat1_mu1/plots/bias bias2011/cat1_mu1/BiasStudyOut_cat1Hists.root 1. -0.3,0.3 -0.25,0.25
+1 bias2011/cat1_mu1.5/plots/bias bias2011/cat1_mu1.5/BiasStudyOut_cat1Hists.root 1.5 -0.3,0.3 -0.25,0.25

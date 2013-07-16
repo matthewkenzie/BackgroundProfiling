@@ -1,0 +1,73 @@
+# cat outdir infile expSig biasY pullY
+
+0 coverage2012/cat0_mu-1.5/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat0_mu-1.5/BiasStudyOut_cat0Hists.root -1.5 -0.3,0.3 -0.3,0.3 L
+0 coverage2012/cat0_mu-1.0/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat0_mu-1.0/BiasStudyOut_cat0Hists.root -1.0 -0.3,0.3 -0.3,0.3 L
+0 coverage2012/cat0_mu-0.5/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat0_mu-0.5/BiasStudyOut_cat0Hists.root -0.5 -0.3,0.3 -0.3,0.3 L
+0 coverage2012/cat0_mu0.0/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat0_mu0.0/BiasStudyOut_cat0Hists.root   0.0 -0.3,0.3 -0.3,0.3 L
+0 coverage2012/cat0_mu0.5/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat0_mu0.5/BiasStudyOut_cat0Hists.root   0.5 -0.3,0.3 -0.3,0.3 L
+0 coverage2012/cat0_mu1.0/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat0_mu1.0/BiasStudyOut_cat0Hists.root   1.0 -0.3,0.3 -0.3,0.3 L
+0 coverage2012/cat0_mu1.5/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat0_mu1.5/BiasStudyOut_cat0Hists.root   1.5 -0.3,0.3 -0.3,0.3 L
+
+1 coverage2012/cat1_mu-1.5/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat1_mu-1.5/BiasStudyOut_cat1Hists.root -1.5 -0.3,0.3 -0.3,0.3 R
+1 coverage2012/cat1_mu-1.0/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat1_mu-1.0/BiasStudyOut_cat1Hists.root -1.0 -0.3,0.3 -0.3,0.3 R
+1 coverage2012/cat1_mu-0.5/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat1_mu-0.5/BiasStudyOut_cat1Hists.root -0.5 -0.3,0.3 -0.3,0.3 R
+1 coverage2012/cat1_mu0.0/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat1_mu0.0/BiasStudyOut_cat1Hists.root   0.0 -0.3,0.3 -0.3,0.3 R
+1 coverage2012/cat1_mu0.5/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat1_mu0.5/BiasStudyOut_cat1Hists.root   0.5 -0.3,0.3 -0.3,0.3 R
+1 coverage2012/cat1_mu1.0/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat1_mu1.0/BiasStudyOut_cat1Hists.root   1.0 -0.3,0.3 -0.3,0.3 R
+1 coverage2012/cat1_mu1.5/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat1_mu1.5/BiasStudyOut_cat1Hists.root   1.5 -0.3,0.3 -0.3,0.3 R
+
+2 coverage2012/cat2_mu-1.5/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat2_mu-1.5/BiasStudyOut_cat2Hists.root -1.5 -0.3,0.3 -0.3,0.3 R
+2 coverage2012/cat2_mu-1.0/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat2_mu-1.0/BiasStudyOut_cat2Hists.root -1.0 -0.3,0.3 -0.3,0.3 R
+2 coverage2012/cat2_mu-0.5/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat2_mu-0.5/BiasStudyOut_cat2Hists.root -0.5 -0.3,0.3 -0.3,0.3 R
+2 coverage2012/cat2_mu0.0/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat2_mu0.0/BiasStudyOut_cat2Hists.root   0.0 -0.3,0.3 -0.3,0.3 R
+2 coverage2012/cat2_mu0.5/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat2_mu0.5/BiasStudyOut_cat2Hists.root   0.5 -0.3,0.3 -0.3,0.3 R
+2 coverage2012/cat2_mu1.0/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat2_mu1.0/BiasStudyOut_cat2Hists.root   1.0 -0.3,0.3 -0.3,0.3 R
+2 coverage2012/cat2_mu1.5/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat2_mu1.5/BiasStudyOut_cat2Hists.root   1.5 -0.3,0.3 -0.3,0.3 R
+
+3 coverage2012/cat3_mu-1.5/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat3_mu-1.5/BiasStudyOut_cat3Hists.root -1.5 -0.3,0.3 -0.3,0.3 R
+3 coverage2012/cat3_mu-1.0/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat3_mu-1.0/BiasStudyOut_cat3Hists.root -1.0 -0.3,0.3 -0.3,0.3 R
+3 coverage2012/cat3_mu-0.5/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat3_mu-0.5/BiasStudyOut_cat3Hists.root -0.5 -0.3,0.3 -0.3,0.3 R
+3 coverage2012/cat3_mu0.0/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat3_mu0.0/BiasStudyOut_cat3Hists.root   0.0 -0.3,0.3 -0.3,0.3 R
+3 coverage2012/cat3_mu0.5/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat3_mu0.5/BiasStudyOut_cat3Hists.root   0.5 -0.3,0.3 -0.3,0.3 R
+3 coverage2012/cat3_mu1.0/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat3_mu1.0/BiasStudyOut_cat3Hists.root   1.0 -0.3,0.3 -0.3,0.3 R
+3 coverage2012/cat3_mu1.5/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat3_mu1.5/BiasStudyOut_cat3Hists.root   1.5 -0.3,0.3 -0.3,0.3 R
+
+4 coverage2012/cat4_mu-1.5/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat4_mu-1.5/BiasStudyOut_cat4Hists.root -1.5 -0.3,0.3 -0.3,0.3 R
+4 coverage2012/cat4_mu-1.0/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat4_mu-1.0/BiasStudyOut_cat4Hists.root -1.0 -0.3,0.3 -0.3,0.3 R
+4 coverage2012/cat4_mu-0.5/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat4_mu-0.5/BiasStudyOut_cat4Hists.root -0.5 -0.3,0.3 -0.3,0.3 R
+4 coverage2012/cat4_mu0.0/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat4_mu0.0/BiasStudyOut_cat4Hists.root   0.0 -0.3,0.3 -0.3,0.3 R
+4 coverage2012/cat4_mu0.5/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat4_mu0.5/BiasStudyOut_cat4Hists.root   0.5 -0.3,0.3 -0.3,0.3 R
+4 coverage2012/cat4_mu1.0/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat4_mu1.0/BiasStudyOut_cat4Hists.root   1.0 -0.3,0.3 -0.3,0.3 R
+4 coverage2012/cat4_mu1.5/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat4_mu1.5/BiasStudyOut_cat4Hists.root   1.5 -0.3,0.3 -0.3,0.3 R
+
+5 coverage2012/cat5_mu-1.5/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat5_mu-1.5/BiasStudyOut_cat5Hists.root -1.5 -0.3,0.3 -0.3,0.3 R
+5 coverage2012/cat5_mu-1.0/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat5_mu-1.0/BiasStudyOut_cat5Hists.root -1.0 -0.3,0.3 -0.3,0.3 R
+5 coverage2012/cat5_mu-0.5/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat5_mu-0.5/BiasStudyOut_cat5Hists.root -0.5 -0.3,0.3 -0.3,0.3 R
+5 coverage2012/cat5_mu0.0/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat5_mu0.0/BiasStudyOut_cat5Hists.root   0.0 -0.3,0.3 -0.3,0.3 R
+5 coverage2012/cat5_mu0.5/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat5_mu0.5/BiasStudyOut_cat5Hists.root   0.5 -0.3,0.3 -0.3,0.3 R
+5 coverage2012/cat5_mu1.0/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat5_mu1.0/BiasStudyOut_cat5Hists.root   1.0 -0.3,0.3 -0.3,0.3 R
+5 coverage2012/cat5_mu1.5/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat5_mu1.5/BiasStudyOut_cat5Hists.root   1.5 -0.3,0.3 -0.3,0.3 R
+
+6 coverage2012/cat6_mu-1.5/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat6_mu-1.5/BiasStudyOut_cat6Hists.root -1.5 -0.3,0.3 -0.3,0.3 R
+6 coverage2012/cat6_mu-1.0/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat6_mu-1.0/BiasStudyOut_cat6Hists.root -1.0 -0.3,0.3 -0.3,0.3 R
+6 coverage2012/cat6_mu-0.5/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat6_mu-0.5/BiasStudyOut_cat6Hists.root -0.5 -0.3,0.3 -0.3,0.3 R
+6 coverage2012/cat6_mu0.0/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat6_mu0.0/BiasStudyOut_cat6Hists.root   0.0 -0.3,0.3 -0.3,0.3 R
+6 coverage2012/cat6_mu0.5/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat6_mu0.5/BiasStudyOut_cat6Hists.root   0.5 -0.3,0.3 -0.3,0.3 R
+6 coverage2012/cat6_mu1.0/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat6_mu1.0/BiasStudyOut_cat6Hists.root   1.0 -0.3,0.3 -0.3,0.3 R
+6 coverage2012/cat6_mu1.5/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat6_mu1.5/BiasStudyOut_cat6Hists.root   1.5 -0.3,0.3 -0.3,0.3 R
+
+7 coverage2012/cat7_mu-1.5/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat7_mu-1.5/BiasStudyOut_cat7Hists.root -1.5 -0.3,0.3 -0.3,0.3 R
+7 coverage2012/cat7_mu-1.0/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat7_mu-1.0/BiasStudyOut_cat7Hists.root -1.0 -0.3,0.3 -0.3,0.3 R
+7 coverage2012/cat7_mu-0.5/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat7_mu-0.5/BiasStudyOut_cat7Hists.root -0.5 -0.3,0.3 -0.3,0.3 R
+7 coverage2012/cat7_mu0.0/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat7_mu0.0/BiasStudyOut_cat7Hists.root   0.0 -0.3,0.3 -0.3,0.3 R
+7 coverage2012/cat7_mu0.5/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat7_mu0.5/BiasStudyOut_cat7Hists.root   0.5 -0.3,0.3 -0.3,0.3 R
+7 coverage2012/cat7_mu1.0/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat7_mu1.0/BiasStudyOut_cat7Hists.root   1.0 -0.3,0.3 -0.3,0.3 R
+7 coverage2012/cat7_mu1.5/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat7_mu1.5/BiasStudyOut_cat7Hists.root   1.5 -0.3,0.3 -0.3,0.3 R
+
+8 coverage2012/cat8_mu-1.5/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat8_mu-1.5/BiasStudyOut_cat8Hists.root -1.5 -0.3,0.3 -0.3,0.3 R
+8 coverage2012/cat8_mu-1.0/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat8_mu-1.0/BiasStudyOut_cat8Hists.root -1.0 -0.3,0.3 -0.3,0.3 R
+8 coverage2012/cat8_mu-0.5/plots/bias root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat8_mu-0.5/BiasStudyOut_cat8Hists.root -0.5 -0.3,0.3 -0.3,0.3 R
+8 coverage2012/cat8_mu0.0/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat8_mu0.0/BiasStudyOut_cat8Hists.root   0.0 -0.3,0.3 -0.3,0.3 R
+8 coverage2012/cat8_mu0.5/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat8_mu0.5/BiasStudyOut_cat8Hists.root   0.5 -0.3,0.3 -0.3,0.3 R
+8 coverage2012/cat8_mu1.0/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat8_mu1.0/BiasStudyOut_cat8Hists.root   1.0 -0.3,0.3 -0.3,0.3 R
+8 coverage2012/cat8_mu1.5/plots/bias  root://eoscms//eos/cms/store/user/mkenzie/BackgroundProfiling_v2/coverage2012/cat8_mu1.5/BiasStudyOut_cat8Hists.root   1.5 -0.3,0.3 -0.3,0.3 R

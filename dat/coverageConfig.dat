@@ -1,0 +1,111 @@
+year=2011
+sigfilename=CMS-HGG_massfacmva_jan16reload.root
+bkgfilename=CMS-HGG_massfacmva_jan16reload.root
+datfile=dat/bsConfig_2011.dat
+outerDir=coverage2011
+eosPath=/store/user/mkenzie/BackgroundProfiling/
+cat=0 mu=-1.5 mlow=-6.5 mhigh=3.5  mstep=0.5
+cat=0 mu=-1.  mlow=-6.  mhigh=4.   mstep=0.5
+cat=0 mu=-0.5 mlow=-5.5 mhigh=4.5  mstep=0.5
+cat=0 mu=0.0  mlow=-5.  mhigh=5.   mstep=0.5
+cat=0 mu=0.5  mlow=-4.5 mhigh=5.5  mstep=0.5
+cat=0 mu=1.   mlow=-4.  mhigh=6.   mstep=0.5
+cat=0 mu=1.5  mlow=-3.5 mhigh=6.5  mstep=0.5
+cat=1 mu=-1.5 mlow=-6.5 mhigh=3.5  mstep=0.5
+cat=1 mu=-1.  mlow=-6.  mhigh=4.   mstep=0.5
+cat=1 mu=-0.5 mlow=-5.5 mhigh=4.5  mstep=0.5
+cat=1 mu=0.0  mlow=-5.  mhigh=5.   mstep=0.5
+cat=1 mu=0.5  mlow=-4.5 mhigh=5.5  mstep=0.5
+cat=1 mu=1.   mlow=-4.  mhigh=6.   mstep=0.5
+cat=1 mu=1.5  mlow=-3.5 mhigh=6.5  mstep=0.5
+cat=2 mu=-1.5 mlow=-6.5 mhigh=3.5  mstep=0.5
+cat=2 mu=-1.  mlow=-6.  mhigh=4.   mstep=0.5
+cat=2 mu=-0.5 mlow=-5.5 mhigh=4.5  mstep=0.5
+cat=2 mu=0.0  mlow=-5.  mhigh=5.   mstep=0.5
+cat=2 mu=0.5  mlow=-4.5 mhigh=5.5  mstep=0.5
+cat=2 mu=1.   mlow=-4.  mhigh=6.   mstep=0.5
+cat=2 mu=1.5  mlow=-3.5 mhigh=6.5  mstep=0.5
+cat=3 mu=-1.5 mlow=-6.5 mhigh=3.5  mstep=0.5
+cat=3 mu=-1.  mlow=-6.  mhigh=4.   mstep=0.5
+cat=3 mu=-0.5 mlow=-5.5 mhigh=4.5  mstep=0.5
+cat=3 mu=0.0  mlow=-5.  mhigh=5.   mstep=0.5
+cat=3 mu=0.5  mlow=-4.5 mhigh=5.5  mstep=0.5
+cat=3 mu=1.   mlow=-4.  mhigh=6.   mstep=0.5
+cat=3 mu=1.5  mlow=-3.5 mhigh=6.5  mstep=0.5
+cat=4 mu=-1.5 mlow=-6.5 mhigh=3.5  mstep=0.5
+cat=4 mu=-1.  mlow=-6.  mhigh=4.   mstep=0.5
+cat=4 mu=-0.5 mlow=-5.5 mhigh=4.5  mstep=0.5
+cat=4 mu=0.0  mlow=-5.  mhigh=5.   mstep=0.5
+cat=4 mu=0.5  mlow=-4.5 mhigh=5.5  mstep=0.5
+cat=4 mu=1.   mlow=-4.  mhigh=6.   mstep=0.5
+cat=4 mu=1.5  mlow=-3.5 mhigh=6.5  mstep=0.5
+
+year=2012
+sigfile=hgg.inputsig_8TeV_nosplitVH_MVA.root
+bkgfile=hgg.inputbkgdata_8TeV_MVA.root
+datfile=dat/bsConfig_2012.dat
+outerDir=coverage2012
+eosPath=/store/user/mkenzie/BackgroundProfiling/
+cat=0 mu=-1.5 mlow=-6.5 mhigh=3.5  mstep=0.5
+cat=0 mu=-1.  mlow=-6.  mhigh=4.   mstep=0.5
+cat=0 mu=-0.5 mlow=-5.5 mhigh=4.5  mstep=0.5
+cat=0 mu=0.0  mlow=-5.  mhigh=5.   mstep=0.5
+cat=0 mu=0.5  mlow=-4.5 mhigh=5.5  mstep=0.5
+cat=0 mu=1.   mlow=-4.  mhigh=6.   mstep=0.5
+cat=0 mu=1.5  mlow=-3.5 mhigh=6.5  mstep=0.5
+cat=1 mu=-1.5 mlow=-6.5 mhigh=3.5  mstep=0.5
+cat=1 mu=-1.  mlow=-6.  mhigh=4.   mstep=0.5
+cat=1 mu=-0.5 mlow=-5.5 mhigh=4.5  mstep=0.5
+cat=1 mu=0.0  mlow=-5.  mhigh=5.   mstep=0.5
+cat=1 mu=0.5  mlow=-4.5 mhigh=5.5  mstep=0.5
+cat=1 mu=1.   mlow=-4.  mhigh=6.   mstep=0.5
+cat=1 mu=1.5  mlow=-3.5 mhigh=6.5  mstep=0.5
+cat=2 mu=-1.5 mlow=-6.5 mhigh=3.5  mstep=0.5
+cat=2 mu=-1.  mlow=-6.  mhigh=4.   mstep=0.5
+cat=2 mu=-0.5 mlow=-5.5 mhigh=4.5  mstep=0.5
+cat=2 mu=0.0  mlow=-5.  mhigh=5.   mstep=0.5
+cat=2 mu=0.5  mlow=-4.5 mhigh=5.5  mstep=0.5
+cat=2 mu=1.   mlow=-4.  mhigh=6.   mstep=0.5
+cat=2 mu=1.5  mlow=-3.5 mhigh=6.5  mstep=0.5
+cat=3 mu=-1.5 mlow=-6.5 mhigh=3.5  mstep=0.5
+cat=3 mu=-1.  mlow=-6.  mhigh=4.   mstep=0.5
+cat=3 mu=-0.5 mlow=-5.5 mhigh=4.5  mstep=0.5
+cat=3 mu=0.0  mlow=-5.  mhigh=5.   mstep=0.5
+cat=3 mu=0.5  mlow=-4.5 mhigh=5.5  mstep=0.5
+cat=3 mu=1.   mlow=-4.  mhigh=6.   mstep=0.5
+cat=3 mu=1.5  mlow=-3.5 mhigh=6.5  mstep=0.5
+cat=4 mu=-1.5 mlow=-6.5 mhigh=3.5  mstep=0.5
+cat=4 mu=-1.  mlow=-6.  mhigh=4.   mstep=0.5
+cat=4 mu=-0.5 mlow=-5.5 mhigh=4.5  mstep=0.5
+cat=4 mu=0.0  mlow=-5.  mhigh=5.   mstep=0.5
+cat=4 mu=0.5  mlow=-4.5 mhigh=5.5  mstep=0.5
+cat=4 mu=1.   mlow=-4.  mhigh=6.   mstep=0.5
+cat=4 mu=1.5  mlow=-3.5 mhigh=6.5  mstep=0.5
+cat=5 mu=-1.5 mlow=-6.5 mhigh=3.5  mstep=0.5
+cat=5 mu=-1.  mlow=-6.  mhigh=4.   mstep=0.5
+cat=5 mu=-0.5 mlow=-5.5 mhigh=4.5  mstep=0.5
+cat=5 mu=0.0  mlow=-5.  mhigh=5.   mstep=0.5
+cat=5 mu=0.5  mlow=-4.5 mhigh=5.5  mstep=0.5
+cat=5 mu=1.   mlow=-4.  mhigh=6.   mstep=0.5
+cat=5 mu=1.5  mlow=-3.5 mhigh=6.5  mstep=0.5
+cat=6 mu=-1.5 mlow=-6.5 mhigh=3.5  mstep=0.5
+cat=6 mu=-1.  mlow=-6.  mhigh=4.   mstep=0.5
+cat=6 mu=-0.5 mlow=-5.5 mhigh=4.5  mstep=0.5
+cat=6 mu=0.0  mlow=-5.  mhigh=5.   mstep=0.5
+cat=6 mu=0.5  mlow=-4.5 mhigh=5.5  mstep=0.5
+cat=6 mu=1.   mlow=-4.  mhigh=6.   mstep=0.5
+cat=6 mu=1.5  mlow=-3.5 mhigh=6.5  mstep=0.5
+cat=7 mu=-1.5 mlow=-6.5 mhigh=3.5  mstep=0.5
+cat=7 mu=-1.  mlow=-6.  mhigh=4.   mstep=0.5
+cat=7 mu=-0.5 mlow=-5.5 mhigh=4.5  mstep=0.5
+cat=7 mu=0.0  mlow=-5.  mhigh=5.   mstep=0.5
+cat=7 mu=0.5  mlow=-4.5 mhigh=5.5  mstep=0.5
+cat=7 mu=1.   mlow=-4.  mhigh=6.   mstep=0.5
+cat=7 mu=1.5  mlow=-3.5 mhigh=6.5  mstep=0.5
+cat=8 mu=-1.5 mlow=-6.5 mhigh=3.5  mstep=0.5
+cat=8 mu=-1.  mlow=-6.  mhigh=4.   mstep=0.5
+cat=8 mu=-0.5 mlow=-5.5 mhigh=4.5  mstep=0.5
+cat=8 mu=0.0  mlow=-5.  mhigh=5.   mstep=0.5
+cat=8 mu=0.5  mlow=-4.5 mhigh=5.5  mstep=0.5
+cat=8 mu=1.   mlow=-4.  mhigh=6.   mstep=0.5
+cat=8 mu=1.5  mlow=-3.5 mhigh=6.5  mstep=0.5
